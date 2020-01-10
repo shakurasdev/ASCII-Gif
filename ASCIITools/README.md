@@ -1,1 +1,1 @@
-Converts the frames of a .gif into ASCII art.
+The key components of this application.
